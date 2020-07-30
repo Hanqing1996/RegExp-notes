@@ -119,5 +119,8 @@ Windows\d+
 ../../../image
 ```
 ---
-
+* 去掉所有 console.log(XXXX)
+```
+console.log(.)
+```
 
