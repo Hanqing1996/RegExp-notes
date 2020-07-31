@@ -121,6 +121,6 @@ Windows\d+
 ---
 * 去掉所有 console.log(XXXX)
 ```
-console.log(.)
+console.log(.*)
 ```
 
