@@ -1,3 +1,9 @@
+``` javascript
+let a=/^0,\d{1,10},\d{1,10}/gi
+console.log(a.source) // "^0,\d{1,10},\d{1,10}"
+console.log(a.flags) // "gi"
+```
+---
 #### 查找形如 0,234,3431 的字符串 
 ```
 ^0,\d{1,10},\d{1,10}
